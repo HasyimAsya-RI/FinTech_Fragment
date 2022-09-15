@@ -1,4 +1,4 @@
-package com.example.fintech_3fragment
+package com.example.fintech1832_fragment
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,12 +1,12 @@
-package com.example.fintech_3fragment
+package com.example.fintech1832_fragment
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import androidx.fragment.app.Fragment
-import com.example.fintech_3fragment.home.HomeFragment
-import com.example.fintech_3fragment.profile.ProfileFragment
-import com.example.fintech_3fragment.setting.SettingFragment
+import com.example.fintech1832_fragment.home.HomeFragment
+import com.example.fintech1832_fragment.profile.ProfileFragment
+import com.example.fintech1832_fragment.setting.SettingFragment
 
 class MainActivity : AppCompatActivity() {
 
